@@ -17,9 +17,9 @@ GOOGLE_CREDS_FILE = "your_credentials_file_name.json"
 # --- INPUT: PASTE YOUR VIDEO URLs HERE ---
 # Add the YouTube video links you want to collect data for in this list.
 VIDEO_URLS = [
-    "",#pest yt video link inside every double quote
-    "",
-    ""
+    "https://www.youtube.com/watch?v=example_video_id_1",#pest yt video link inside every double quote
+    "https://youtu.be/example_video_id_2",
+    "https://www.youtube.com/watch?v=another_example_id"
     # Add more URLs here
     
 ]
@@ -180,4 +180,5 @@ if __name__ == "__main__":
         else:
             print("No new videos to add. All videos already exist in the sheet.")
     else:
+
         print("No video data was collected.")
