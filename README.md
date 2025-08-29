@@ -36,8 +36,8 @@ A Python script to collect YouTube video metadata (title, views, likes, comments
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/youtube-data-scraper.git
-   cd youtube-data-scraper
+   git clone https://github.com/mirzanaeembeg/YT-Data-Scraper-using-YT-Data-API-v3.git
+   cd YT-Data-Scraper-using-YT-Data-API-v3
    ```
 
 2. **Install required packages:**
@@ -121,8 +121,8 @@ A Python script to collect YouTube video metadata (title, views, likes, comments
    GOOGLE_CREDS_FILE = "my-project-credentials.json"
    
    VIDEO_URLS = [
-       "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-       "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+       "https://www.youtube.com/watch?v=example_video_id_1",
+       "https://youtu.be/example_video_id_2",
        # Add more URLs here
    ]
    ```
