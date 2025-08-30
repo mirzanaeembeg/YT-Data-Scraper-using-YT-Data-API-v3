@@ -248,10 +248,6 @@ After running the script successfully, your Google Sheet will look like this:
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is for educational and research purposes. Please respect YouTube's Terms of Service and API usage policies. The authors are not responsible for any misuse of this tool.
